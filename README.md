@@ -1,3 +1,7 @@
 - Hi, I’m  Ashish M Bhat
-- I’m interested in Web Development
-- I’m currently learning ReactJS & NodeJS
+- An enthusiastic Frontend Developer with skills lying around building Single Page Applications
+- Interested in Web Development, giving millions of users a smooth experience
+- Skilled in JavaScript, ReactJS, NextJs , Redux, HTML, CSS and Material UI
+- Also demonstarted experience in Agile practices, continuous Integration and git
+- I’m currently learning ReactJS & NodeJS.
+- Checkout my [portfolio](https://ashishmbhat.netlify.app) and [projects](https://ashishmbhat.netlify.app/projects)
