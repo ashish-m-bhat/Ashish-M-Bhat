@@ -2,7 +2,7 @@
 <code >
   <h3>An enthusiastic Frontend Developer with skills lying around building Single Page Applications</h3>
   <h4>Skilled in <strong><em>JS, ReactJS, NextJs, Redux, React-Routers, HTML, CSS & MUI</em></strong></h4>
-  <h4>Demonstarted skills in Agile, CI and git</h4>
+  <h4>Demonstrated  skills in Agile, CI and git</h4>
   <h4> Currently learning ReactJS & NodeJS</h4>
 </code>
 
