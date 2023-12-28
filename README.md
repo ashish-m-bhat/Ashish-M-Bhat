@@ -1,9 +1,10 @@
 <h1 align="center"> Hello there 👋 I’m  Ashish M Bhat</h1>
 <code >
-  <h3>An enthusiastic Frontend Developer with skills lying around building Single Page Applications</h3>
-  <h4>Skilled in <strong><em>JS, ReactJS, NextJs, Redux, React-Routers, HTML, CSS, SCSS & MUI</em></strong></h4>
+  <h3>An enthusiastic Frontend Developer with skills lying around building pixel perfect and performance oriented UI</h3>
+  <h4>Skilled in <strong><em>ReactJS, NextJs, Typescript, vanilla JS, Redux, React-Routers, HTML, CSS, SCSS, LESS, CSS modules & MUI</em></strong></h4>
+  <h4>Experience with working on SPA, Monolith architecture & Microfrontend architecture</h4>
   <h4>Demonstrated  skills in Agile, CI and git</h4>
-  <h4> Currently learning NodeJS and TypeScript</h4>
+  <h4> Currently learning NodeJS</h4>
 </code>
 
 <div align="center">
